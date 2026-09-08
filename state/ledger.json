@@ -1,0 +1,1537 @@
+{
+  "schema": "hermes-ledger/v1",
+  "updated_at": "2026-09-08T22:25:17Z",
+  "active_business": "polsia-global-trade",
+  "agents": {
+    "orchestrator": {
+      "last_run": "2026-08-30T00:45:05.211178+00:00",
+      "last_result": "{'result': 'Mock response'}"
+    }
+  },
+  "services": {
+    "hermes-gateway": {
+      "running": true,
+      "pids": [
+        30979
+      ],
+      "business": "hermes-self-evolve",
+      "port": null,
+      "port_open": null
+    },
+    "system-resource-optimizer": {
+      "running": true,
+      "pids": [
+        1259
+      ],
+      "business": "system-resource-optimizer",
+      "port": null,
+      "port_open": null
+    },
+    "crypto-bot": {
+      "running": true,
+      "pids": [
+        1436,
+        1437,
+        1460,
+        1461,
+        1480,
+        1481
+      ],
+      "business": "crypto-bot",
+      "port": 4123,
+      "port_open": true
+    }
+  },
+  "gateway": {
+    "gateway_up": false,
+    "gateway_pid": null,
+    "kanban_bytes": 118784,
+    "session_files": 11
+  },
+  "lia": {
+    "supervisor": "lia-cli",
+    "bridge_up": false,
+    "bridge_note": "unreachable (HTTPError)",
+    "projects": [
+      {
+        "name": "ringworld-redux",
+        "status": "completed",
+        "task_count": 5,
+        "tasks_done": 5,
+        "repo": "/home/sin/Projects/ringworld-redux"
+      },
+      {
+        "name": "kingdom-hearts-zero",
+        "status": "completed",
+        "task_count": 3,
+        "tasks_done": 3,
+        "repo": "/home/sin/Projects/kingdom-hearts-zero"
+      },
+      {
+        "name": "spacecraft-blueprint-simulator",
+        "status": "completed",
+        "task_count": 4,
+        "tasks_done": 4,
+        "repo": "/home/sin/Projects/spacecraft-blueprint-simulator"
+      },
+      {
+        "name": "firedragon",
+        "status": "completed",
+        "task_count": 3,
+        "tasks_done": 3,
+        "repo": "/home/sin/Projects/firedragon"
+      },
+      {
+        "name": "void-supercode-local",
+        "status": "completed",
+        "task_count": 3,
+        "tasks_done": 3,
+        "repo": "/home/sin/.hermes/scripts/supercode"
+      },
+      {
+        "name": "twilight-elysium",
+        "status": "completed",
+        "task_count": 2,
+        "tasks_done": 2,
+        "repo": "/home/sin/Projects/twilight-elysium"
+      }
+    ],
+    "projects_total": 6
+  },
+  "businesses": [
+    {
+      "name": "A.I.-bridge-skills",
+      "category": "agi-cli",
+      "language": "n/a",
+      "path": "/home/sin/Projects/polsia/businesses/A.I.-bridge-skills",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "aeronautical-programming",
+      "category": "manufacturing",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/aeronautical-programming",
+      "entrypoints": [
+        "static-html"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "aerospace-simulation-foundation",
+      "category": "manufacturing",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/aerospace-simulation-foundation",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "aerovora-industries",
+      "category": "manufacturing",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/aerovora-industries",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir",
+        "run-script"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "aerovora-storefront",
+      "category": "ecomm-store",
+      "language": "HTML",
+      "path": "/home/sin/Projects/polsia/businesses/aerovora-storefront",
+      "entrypoints": [
+        "static-html"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "ai-autonomy-framework",
+      "category": "agi-cli",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/ai-autonomy-framework",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "ai-teacher-robot-pairing",
+      "category": "education-robotics",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/ai-teacher-robot-pairing",
+      "entrypoints": [
+        "pyproject"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "bde-security-biometrics",
+      "category": "emergency-safety",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/bde-security-biometrics",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "running",
+      "running_procs": [
+        {
+          "pid": 1091,
+          "via": "business-name"
+        }
+      ],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "2026-09-08T22:25:17Z",
+      "notes": []
+    },
+    {
+      "name": "beverage-company",
+      "category": "food-beverage",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/beverage-company",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "black-ops-2-elysium",
+      "category": "emergency-safety",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/black-ops-2-elysium",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "clean-plastics-sim",
+      "category": "manufacturing",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/clean-plastics-sim",
+      "entrypoints": [
+        "pyproject"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "code-theft-evidence",
+      "category": "agi-cli",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/code-theft-evidence",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "coinbase-agent-tools",
+      "category": "trade",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/coinbase-agent-tools",
+      "entrypoints": [
+        "npm"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "cold-fusion-mini",
+      "category": "simulation",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/cold-fusion-mini",
+      "entrypoints": [
+        "static-html"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "crypto-bot",
+      "category": "trade",
+      "language": "TypeScript",
+      "path": "/home/sin/Projects/polsia/businesses/crypto-bot",
+      "entrypoints": [
+        "npm"
+      ],
+      "exists": true,
+      "status": "running",
+      "running_procs": [
+        {
+          "pid": 1436,
+          "via": "business-path"
+        },
+        {
+          "pid": 1437,
+          "via": "business-path"
+        },
+        {
+          "pid": 1460,
+          "via": "business-path"
+        },
+        {
+          "pid": 1461,
+          "via": "business-path"
+        },
+        {
+          "pid": 1480,
+          "via": "business-path"
+        }
+      ],
+      "services": [
+        "crypto-bot"
+      ],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "2026-09-08T22:25:17Z",
+      "notes": []
+    },
+    {
+      "name": "crypto-dashboard",
+      "category": "ecomm-store",
+      "language": "TypeScript",
+      "path": "/home/sin/Projects/polsia/businesses/crypto-dashboard",
+      "entrypoints": [
+        "npm",
+        "static-html"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "design-miner",
+      "category": "os-tooling",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/design-miner",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "DivineDirector",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/DivineDirector",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "dot-hack-remake",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/dot-hack-remake",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "fate-engine",
+      "category": "agi-cli",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/fate-engine",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "firedragon",
+      "category": "os-tooling",
+      "language": "JavaScript",
+      "path": "/home/sin/Projects/polsia/businesses/firedragon",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "running",
+      "running_procs": [
+        {
+          "pid": 2244,
+          "via": "business-name"
+        },
+        {
+          "pid": 2654,
+          "via": "business-name"
+        },
+        {
+          "pid": 2693,
+          "via": "business-name"
+        },
+        {
+          "pid": 2869,
+          "via": "business-name"
+        },
+        {
+          "pid": 2878,
+          "via": "business-name"
+        }
+      ],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "2026-09-08T22:25:17Z",
+      "notes": []
+    },
+    {
+      "name": "gaming-portfolio",
+      "category": "web-app",
+      "language": "JavaScript",
+      "path": "/home/sin/Projects/polsia/businesses/gaming-portfolio",
+      "entrypoints": [
+        "static-html"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "gaming-unified",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/gaming-unified",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "half-life-2-elysium",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/half-life-2-elysium",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "half-life-elysium",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/half-life-elysium",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "hermes-blood",
+      "category": "os-tooling",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/hermes-blood",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "hermes-security-scripts",
+      "category": "emergency-safety",
+      "language": "Shell",
+      "path": "/home/sin/Projects/polsia/businesses/hermes-security-scripts",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "hermes-self-evolve",
+      "category": "agi-cli",
+      "language": "TypeScript",
+      "path": "/home/sin/Projects/polsia/businesses/hermes-self-evolve",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "running",
+      "running_procs": [],
+      "services": [
+        "hermes-gateway"
+      ],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "2026-09-08T22:25:17Z",
+      "notes": []
+    },
+    {
+      "name": "himalaya-exchange",
+      "category": "trade",
+      "language": "JavaScript",
+      "path": "/home/sin/Projects/polsia/businesses/himalaya-exchange",
+      "entrypoints": [
+        "npm"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "japanese-imports-llc",
+      "category": "trade",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/japanese-imports-llc",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "kali-zen-suite",
+      "category": "os-tooling",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/kali-zen-suite",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "kingdom-hearts-zero",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/kingdom-hearts-zero",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "landbridge",
+      "category": "trade",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/landbridge",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir",
+        "run-script"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "lia-cli",
+      "category": "agi-cli",
+      "language": "TypeScript",
+      "path": "/home/sin/Projects/polsia/businesses/lia-cli",
+      "entrypoints": [
+        "npm"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "lia-groq-bridge",
+      "category": "agi-cli",
+      "language": "JavaScript",
+      "path": "/home/sin/Projects/polsia/businesses/lia-groq-bridge",
+      "entrypoints": [
+        "npm"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "lin-antimalware",
+      "category": "emergency-safety",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/lin-antimalware",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "lin-antimalware-tools",
+      "category": "emergency-safety",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/lin-antimalware-tools",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "linux-zen-build",
+      "category": "os-tooling",
+      "language": "Shell",
+      "path": "/home/sin/Projects/polsia/businesses/linux-zen-build",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "living-sin-assets",
+      "category": "personal-brand",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/living-sin-assets",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "living-sin-merch",
+      "category": "ecomm-store",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/living-sin-merch",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir",
+        "static-html"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "living-sin-models",
+      "category": "personal-brand",
+      "language": "Shell",
+      "path": "/home/sin/Projects/polsia/businesses/living-sin-models",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "living-sin-search",
+      "category": "web-app",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/living-sin-search",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "living-sin-ui",
+      "category": "personal-brand",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/living-sin-ui",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "local-emergency-patrol",
+      "category": "emergency-safety",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/local-emergency-patrol",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "loz-majoras-mask",
+      "category": "gaming-remake",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/loz-majoras-mask",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "loz-ocarina-mq",
+      "category": "gaming-remake",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/loz-ocarina-mq",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "market-library",
+      "category": "trade",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/market-library",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "metals-alloy-engineering",
+      "category": "manufacturing",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/metals-alloy-engineering",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "mp3-video-virtualizer",
+      "category": "web-app",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/mp3-video-virtualizer",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "nanite-systems",
+      "category": "manufacturing",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/nanite-systems",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "neuromorphic-handoff",
+      "category": "agi-cli",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/neuromorphic-handoff",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "phone-computers",
+      "category": "os-tooling",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/phone-computers",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "polsia-cli",
+      "category": "agi-cli",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/polsia-cli",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir",
+        "makefile",
+        "pyproject"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "polsia-global-trade",
+      "category": "trade",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/polsia-global-trade",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir",
+        "run-script"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "profit-widget",
+      "category": "web-app",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/profit-widget",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "q-debug-vm",
+      "category": "os-tooling",
+      "language": "Shell",
+      "path": "/home/sin/Projects/polsia/businesses/q-debug-vm",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "quantum-loop",
+      "category": "agi-cli",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/quantum-loop",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "ringworld-redux",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/ringworld-redux",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "rocket-build-system",
+      "category": "manufacturing",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/rocket-build-system",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "secure-tactical-systems",
+      "category": "emergency-safety",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/secure-tactical-systems",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "sen-isp-business",
+      "category": "isp-infra",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/sen-isp-business",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "sen-isp-pygeofetch",
+      "category": "isp-infra",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/sen-isp-pygeofetch",
+      "entrypoints": [
+        "pyproject"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "simulation-policy-sandbox",
+      "category": "simulation",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/simulation-policy-sandbox",
+      "entrypoints": [
+        "pyproject"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "skyrim-ai-overhaul",
+      "category": "gaming-remake",
+      "language": "Papyrus",
+      "path": "/home/sin/Projects/polsia/businesses/skyrim-ai-overhaul",
+      "entrypoints": [
+        "npm"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "skyrim-mod-packages",
+      "category": "gaming-remake",
+      "language": "n/a",
+      "path": "/home/sin/Projects/polsia/businesses/skyrim-mod-packages",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "soh-masterquest-build",
+      "category": "gaming-remake",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/soh-masterquest-build",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "solar-well-infrastructure",
+      "category": "simulation",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/solar-well-infrastructure",
+      "entrypoints": [
+        "static-html"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "space-edge-network",
+      "category": "isp-infra",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/space-edge-network",
+      "entrypoints": [
+        "fastapi-backend",
+        "backend-dir"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "spacecraft-blueprint-simulator",
+      "category": "manufacturing",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/spacecraft-blueprint-simulator",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "steam-linux-optimizations",
+      "category": "gaming-remake",
+      "language": "Shell",
+      "path": "/home/sin/Projects/polsia/businesses/steam-linux-optimizations",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "system-resource-optimizer",
+      "category": "os-tooling",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/system-resource-optimizer",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "running",
+      "running_procs": [
+        {
+          "pid": 1259,
+          "via": "business-path"
+        }
+      ],
+      "services": [
+        "system-resource-optimizer"
+      ],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "2026-09-08T22:25:17Z",
+      "notes": []
+    },
+    {
+      "name": "te-bonfire",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/te-bonfire",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "te-halo-inspired",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/te-halo-inspired",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "tf2-elysium",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/tf2-elysium",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "The-Elder-Scrolls-Elsewhyr",
+      "category": "gaming-remake",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/The-Elder-Scrolls-Elsewhyr",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "The-Elder-Scrolls-Elsweyr",
+      "category": "gaming-remake",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/The-Elder-Scrolls-Elsweyr",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "twilight-elysium",
+      "category": "gaming-remake",
+      "language": "C++",
+      "path": "/home/sin/Projects/polsia/businesses/twilight-elysium",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "vessel-logistics",
+      "category": "trade",
+      "language": "JSON",
+      "path": "/home/sin/Projects/polsia/businesses/vessel-logistics",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "vm-bootstrap",
+      "category": "os-tooling",
+      "language": "Shell",
+      "path": "/home/sin/Projects/polsia/businesses/vm-bootstrap",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "void-bridge",
+      "category": "agi-cli",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/void-bridge",
+      "entrypoints": [
+        "run-script"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "wildhearts-linux-fixes",
+      "category": "gaming-remake",
+      "language": "Shell",
+      "path": "/home/sin/Projects/polsia/businesses/wildhearts-linux-fixes",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "zeigiest-economy-sim",
+      "category": "simulation",
+      "language": "Python",
+      "path": "/home/sin/Projects/polsia/businesses/zeigiest-economy-sim",
+      "entrypoints": [
+        "pyproject"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "zen-suite",
+      "category": "os-tooling",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/zen-suite",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "zen-suite-iso",
+      "category": "os-tooling",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/zen-suite-iso",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    },
+    {
+      "name": "zen-suite-release",
+      "category": "os-tooling",
+      "language": "Markdown",
+      "path": "/home/sin/Projects/polsia/businesses/zen-suite-release",
+      "entrypoints": [
+        "source-only"
+      ],
+      "exists": true,
+      "status": "monitoring",
+      "running_procs": [],
+      "services": [],
+      "last_checked": "2026-09-08T22:25:17Z",
+      "last_healthy": "",
+      "notes": []
+    }
+  ]
+}

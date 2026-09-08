@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+"""Hermes.CLI — sync messenger and business ledger keeper.
+
+Keeps Hermes, Polsia, Lia and the owner in agreement on business state,
+durably via git (GitHub is the backchannel) so the work survives
+anyone being offline.
+
+Usage: hermes <command> [options]
+"""
+import os
+import sys
+
+_HERE = os.path.dirname(os.path.realpath(__file__))
+sys.path.insert(0, os.path.join(_HERE, "src"))
+
+from hermes_cli.main import main  # noqa: E402
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,6 +1,6 @@
 {
   "schema": "hermes-ledger/v1",
-  "updated_at": "2026-09-08T22:25:17Z",
+  "updated_at": "2026-09-08T22:27:43Z",
   "active_business": "polsia-global-trade",
   "agents": {
     "orchestrator": {
@@ -111,7 +111,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -127,7 +127,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -143,7 +143,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -161,7 +161,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -177,7 +177,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -193,7 +193,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -209,7 +209,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -230,7 +230,7 @@
         }
       ],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "2026-09-08T22:25:17Z",
       "notes": []
     },
@@ -246,7 +246,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -262,7 +262,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -278,7 +278,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -294,7 +294,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -310,7 +310,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -326,7 +326,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -365,7 +365,7 @@
       "services": [
         "crypto-bot"
       ],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "2026-09-08T22:25:17Z",
       "notes": []
     },
@@ -382,7 +382,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -398,7 +398,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -414,7 +414,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -430,7 +430,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -446,7 +446,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -483,7 +483,7 @@
         }
       ],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "2026-09-08T22:25:17Z",
       "notes": []
     },
@@ -499,7 +499,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -515,7 +515,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -531,7 +531,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -547,7 +547,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -563,7 +563,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -579,7 +579,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -597,7 +597,7 @@
       "services": [
         "hermes-gateway"
       ],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "2026-09-08T22:25:17Z",
       "notes": []
     },
@@ -613,7 +613,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -629,7 +629,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -645,7 +645,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -661,7 +661,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -679,7 +679,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -695,7 +695,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -711,7 +711,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -727,7 +727,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -743,7 +743,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -759,7 +759,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -775,7 +775,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -793,7 +793,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -809,7 +809,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -825,7 +825,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -841,7 +841,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -858,7 +858,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -874,7 +874,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -890,7 +890,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -906,7 +906,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -922,7 +922,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -938,7 +938,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -954,7 +954,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -970,7 +970,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -986,7 +986,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1005,7 +1005,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1023,7 +1023,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1039,7 +1039,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1055,7 +1055,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1072,7 +1072,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1088,7 +1088,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1104,7 +1104,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1120,7 +1120,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1137,7 +1137,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1153,7 +1153,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1169,7 +1169,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1185,7 +1185,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1201,7 +1201,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1217,7 +1217,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1233,7 +1233,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1250,7 +1250,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1266,7 +1266,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1282,7 +1282,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1305,7 +1305,7 @@
       "services": [
         "system-resource-optimizer"
       ],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "2026-09-08T22:25:17Z",
       "notes": []
     },
@@ -1321,7 +1321,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1337,7 +1337,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1353,7 +1353,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1369,7 +1369,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1385,7 +1385,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1401,7 +1401,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1417,7 +1417,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1433,7 +1433,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1449,7 +1449,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1465,7 +1465,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1481,7 +1481,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1497,7 +1497,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1513,7 +1513,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     },
@@ -1529,7 +1529,7 @@
       "status": "monitoring",
       "running_procs": [],
       "services": [],
-      "last_checked": "2026-09-08T22:25:17Z",
+      "last_checked": "2026-09-08T22:27:43Z",
       "last_healthy": "",
       "notes": []
     }

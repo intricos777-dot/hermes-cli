@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-09-29T00:02:28.273289+00:00",
+  "sources": {
+    "hermes": {
+      "db": "/home/livings/.hermes/state.db",
+      "sessions": 12,
+      "messages": 4555
+    },
+    "opencode": {
+      "db": "/home/livings/.local/share/opencode/opencode.db",
+      "sessions": 4,
+      "messages": 1486,
+      "parts": 5492
+    }
+  },
+  "redaction": {
+    "policy": "secrets replaced with [TYPE_REDACTED:sha256[:8]] placeholders",
+    "excluded_files": [
+      "auth.json",
+      "secret.bin",
+      "*.db",
+      "*.db-wal",
+      "*.db-shm",
+      "cookies",
+      "keys",
+      "caches"
+    ],
+    "distinct_secrets_redacted": 30,
+    "total_redactions": 108,
+    "by_type": {
+      "private_key": 45,
+      "aws_key": 15,
+      "slack": 8,
+      "openai_key": 6,
+      "jwt": 6,
+      "generic_secret": 17,
+      "bearer": 3,
+      "github_pat": 2,
+      "google_key": 6
+    }
+  }
+}

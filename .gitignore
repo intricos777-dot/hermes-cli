@@ -1,0 +1,22 @@
+# Session-store backups live here; credentials must never be committed.
+auth.json
+secret.bin
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.key
+*.pem
+*.p12
+id_rsa*
+id_ed25519*
+.cookies
+.cache/
+*_cache.json
+models_dev_cache*
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*

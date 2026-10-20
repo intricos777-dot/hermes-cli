@@ -1,0 +1,5 @@
+[allowlist]
+description = "session backups contain scanner self-test fixtures, not live credentials"
+paths = [
+  '''sessions-backup/.*\.jsonl''',
+]

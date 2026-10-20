@@ -1,4 +1,7 @@
 # Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Copyright (c) 2026 Living Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
+# Licensed under Living Sin Proprietary License (LSPL-1.0)
+# See LICENSE file for details.
 """Local truths from Polsia, Lia and the Hermes gateway.
 
 These read the on-disk stores the CLIs already maintain, so Hermes.CLI

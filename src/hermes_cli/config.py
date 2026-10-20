@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Paths, entities and service manifest for Hermes.CLI."""
 
 from __future__ import annotations

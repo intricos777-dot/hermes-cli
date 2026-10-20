@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Git backchannel: pull/rebase → write → commit → push.
 
 GitHub is the durable bus: the ledger, journal and inboxes live in the

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Fail if any known secret fingerprint or raw pattern survives in the export."""
 import re, json, hashlib, sys, os, glob
 

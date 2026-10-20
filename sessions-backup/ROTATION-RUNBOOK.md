@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Credential Rotation Runbook
 
 **Status: NOT DONE. These credentials are still live and must be rotated by hand.**

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Session Backup
 
 Point-in-time export of all local agent session history, redacted of credentials.

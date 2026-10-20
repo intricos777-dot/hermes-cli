@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Local truths from Polsia, Lia and the Hermes gateway.
 
 These read the on-disk stores the CLIs already maintain, so Hermes.CLI

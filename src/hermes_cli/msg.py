@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Journal, inboxes and heartbeats — the words between the worlds."""
 
 from __future__ import annotations

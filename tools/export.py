@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Export session history from hermes + opencode SQLite stores to redacted JSONL."""
 import sqlite3, re, json, hashlib, os, sys, datetime
 

@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Runtime health: scan /proc for the businesses' living processes.
 
 Truth is in the running kernel: if a process carries a business path or

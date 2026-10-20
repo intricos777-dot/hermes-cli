@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """The keeper: heal what is down, watch while the owner is away.
 
 Ritual without result is mere ceremony — heal actually relaunches

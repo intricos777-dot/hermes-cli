@@ -1,3 +1,4 @@
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """The ledger: polsia registry + runtime health + liaison tasks → one truth.
 
 Solve et coagula: dissolve each source's local claims, coalesce them into
